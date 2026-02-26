@@ -4,7 +4,7 @@
 **Student Name:** Jasmine Adams  
 **Course:** Cybersecurity Foundations Intensive  
 **Date:** February 26, 2026  
-**Institution:** [The Knowledge House]  
+**Institution:** The Knowledge House  
 
 ---
 
