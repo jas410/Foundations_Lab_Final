@@ -4,7 +4,7 @@
 ## 🌦️ My Journey Log
 - **Week 1-2:** Linux CLI Foundations 🌱
 - **Week 3-4:** Bash Scripting & Git Workflow 🌿
-- **Week 5-7:** **The Automation Forge** (Created `port_check.py`) 🌸
+- **Week 5-7:** **The Automation Forge**🌸
 
 
 ---
