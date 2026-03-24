@@ -3,19 +3,19 @@
     inet 127.0.0.1/8 scope host lo
        valid_lft forever preferred_lft forever
 2: eth0@if7: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1460 qdisc noqueue state UP group default qlen 1000
-    link/ether ee:34:7d:f5:76:e6 brd ff:ff:ff:ff:ff:ff link-netnsid 0
+    link/ether 22:10:cc:c3:4b:4c brd ff:ff:ff:ff:ff:ff link-netnsid 0
     inet 10.88.0.3/16 brd 10.88.255.255 scope global eth0
        valid_lft forever preferred_lft forever
 3: docker0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1460 qdisc noqueue state DOWN group default 
-    link/ether 62:ca:e6:e2:85:97 brd ff:ff:ff:ff:ff:ff
+    link/ether a2:4c:d8:54:13:97 brd ff:ff:ff:ff:ff:ff
     inet 172.17.0.1/16 brd 172.17.255.255 scope global docker0
        valid_lft forever preferred_lft forever
 PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
-64 bytes from 8.8.8.8: icmp_seq=1 ttl=117 time=1.32 ms
-64 bytes from 8.8.8.8: icmp_seq=2 ttl=117 time=0.468 ms
-64 bytes from 8.8.8.8: icmp_seq=3 ttl=117 time=1.30 ms
-64 bytes from 8.8.8.8: icmp_seq=4 ttl=117 time=0.567 ms
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=114 time=1.18 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=114 time=0.570 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=114 time=0.529 ms
+64 bytes from 8.8.8.8: icmp_seq=4 ttl=114 time=0.443 ms
 
 --- 8.8.8.8 ping statistics ---
-4 packets transmitted, 4 received, 0% packet loss, time 3005ms
-rtt min/avg/max/mdev = 0.468/0.912/1.316/0.396 ms
+4 packets transmitted, 4 received, 0% packet loss, time 3067ms
+rtt min/avg/max/mdev = 0.443/0.680/1.178/0.291 ms
