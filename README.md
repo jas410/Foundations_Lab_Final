@@ -1,5 +1,5 @@
 
-#🌻Foundational Las Final
+# 🌻Foundational Las Final
 
 ## 🌦️ My Journey Log
 - **Week 1-2:** Linux CLI Foundations 🌱
@@ -8,7 +8,7 @@
 
 
 ---
-##🌻Foundational Labs Final
+# 🌻Foundational Labs Final
 
 **Student Name:** Jasmine Adams  
 **Course:** Cybersecurity Foundations Intensive  
@@ -17,7 +17,7 @@
 
 ---
 
-##🌻Technical Workbench Overview
+# 🌻Technical Workbench Overview
 This repository serves as the primary version-controlled environment for my professional cybersecurity practice. 
 
 ### Environment Specifications
