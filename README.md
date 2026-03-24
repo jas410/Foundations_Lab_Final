@@ -1,5 +1,5 @@
 
-# 🌻Foundational Las Final
+# 🌻Foundational Labs Final
 
 ## 🌦️ My Journey Log
 - **Week 1-2:** Linux CLI Foundations 🌱
